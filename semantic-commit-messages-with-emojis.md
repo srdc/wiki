@@ -29,7 +29,7 @@ Commit format: `<emoji_type> <commit_type>(<scope>): <subject>. <issue_reference
 ## Commit Message Types
 
 - **feat**: introducing a new feature to the codebase
-- **fix**: patching a bug in your codebase
+- **fix**: fixing a bug in the codebase
 - **docs**: adding or updating the documentation
 - **refactor**: refactoring the production code
 - **build**: changes related to the build system (involving scripts, configurations) and package dependencies
