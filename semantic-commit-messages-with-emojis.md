@@ -32,7 +32,7 @@ Commit format: `<emoji_type> <commit_type>(<scope>): <subject>. <issue_reference
 - **fix**: fixing a bug in the codebase
 - **docs**: adding or updating the documentation
 - **refactor**: refactoring the production code
-- **build**: changes related to the build system (involving scripts, configurations) and package dependencies
+- **build**/**conf**: changes related to the build system (involving scripts, configurations) and package dependencies
 - **test**: adding tests (no production code change)
 - **ci**: changes related to the continuous integration and deployment system
 - **style**: improving structure/format of the code e.g. missing semi colons (no production code change)
