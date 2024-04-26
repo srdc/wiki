@@ -75,6 +75,12 @@ Keywords to close an related issue with the commit:
 You can use the phrase: `Fixes: #1` or `Fixes #1`.
 Once the branch is merged into the default branch, the issue will close.
 
+## Related Tools for Gitmoji
+ - Visual Studio Code: https://marketplace.visualstudio.com/items?itemName=seatonjiang.gitmoji-vscode
+ - JetBrains: https://plugins.jetbrains.com/plugin/12383-gitmoji-plus-commit-button
+ - Sublime Text: https://packagecontrol.io/packages/Gitmoji
+ - All other tools: https://gitmoji.dev/related-tools
+
 ## References
  - https://gitmoji.carloscuesta.me/
  - http://karma-runner.github.io/1.0/dev/git-commit-msg.html
